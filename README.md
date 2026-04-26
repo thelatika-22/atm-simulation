@@ -26,9 +26,9 @@ A simple Command Line Interface (CLI) based ATM Simulation System built using Py
 ## 📂 Project Structure
 
 atm-simulation/
-
+│
 ├── main.py
-
+│
 ├── README.md
 
 ---
